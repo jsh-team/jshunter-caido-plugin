@@ -12,7 +12,7 @@ export default defineConfig({
   id,
   name: "JSHunter",
   description: "Analyze all your JavaScript in one place",
-  version: "0.0.0",
+  version: "1.0.0",
   author: {
     name: "Caido Labs Inc.",
     email: "dev@caido.io",
